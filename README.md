@@ -1,11 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd">
-<article lang="">
-  <para>Программа-игрушка «Волшебный шар». </para>
-  <para>Он подскажет ответ на любой жизненный вопрос!</para>
-  <para/>
-  <para>Данная консольная программа написана на высокоуровневом объектно-ориентированном языке программирования Ruby.</para>
-  <para/>
-  <para>Для ее запуска потребуется установить <ulink url="https://ru.wikibooks.org/wiki/Ruby/Установка">интерпритатор</ulink> Ruby, затем необходимо набрать в консоли следующую команду: `ruby magic_ball.rb`</para>
-  <para/>
-</article>
+ <html>
+  <body>
+   <h1>Программа-игрушка «Волшебный шар».</h1>
+    Данная консольная программа написана на высокоуровневом объектно-ориентированном языке программирования
+    <a href="https://ru.wikipedia.org/wiki/Ruby">Ruby</a>. Для ее запуска потребуется установить <a href="https://ru.wikibooks.org/wiki/Ruby
+      Установка">интерпритатор</a> Ruby, затем необходимо набрать в консоли следующую команду:
+    <br><code>ruby magic_ball.rb</code>
+    <p>
+    <br>Результат работы программы:
+    <br>
+    <code>Кто вопрошает, тот получит ответ: Хорошие перспективы</code>
+ </body>
+</html>
